@@ -1,0 +1,2 @@
+C:\Users\shrutika.mendhe\Desktop\clone\directory-react-nodejs\directory-react-nodejs\obj\Debug\directory-react-nodejs.njsprojResolveAssemblyReference.cache
+C:\Users\shrutika.mendhe\Desktop\clone\directory-react-nodejs\directory-react-nodejs\bin\Microsoft.NodejsTools.WebRole.dll
